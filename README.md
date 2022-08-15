@@ -1,6 +1,6 @@
 # Lissajous
 
-Draw lissajous figures using 
+Draw lissajous figures  
 
 # Requirements to run this code
 
